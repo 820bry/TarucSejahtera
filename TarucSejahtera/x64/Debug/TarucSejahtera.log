@@ -1,0 +1,10 @@
+﻿  admin.c
+  main.c
+  venue.c
+C:\Users\bryan\OneDrive - Asia Pacific University\College Ref\Sem 3\PCD 2\Assignment\Project\TarucSejahtera\TarucSejahtera\venue.c(421,6): warning C4101: 'i': unreferenced local variable
+  visitor.c
+  visits_exits.c
+  Generating Code...
+C:\Users\bryan\OneDrive - Asia Pacific University\College Ref\Sem 3\PCD 2\Assignment\Project\TarucSejahtera\TarucSejahtera\venue.c(666): warning C4715: 'reportOpt': not all control paths return a value
+C:\Users\bryan\OneDrive - Asia Pacific University\College Ref\Sem 3\PCD 2\Assignment\Project\TarucSejahtera\TarucSejahtera\venue.c(685): warning C4716: 'menuOpt': must return a value
+  TarucSejahtera.vcxproj -> C:\Users\bryan\OneDrive - Asia Pacific University\College Ref\Sem 3\PCD 2\Assignment\Project\TarucSejahtera\x64\Debug\TarucSejahtera.exe

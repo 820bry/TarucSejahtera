@@ -1,0 +1,5 @@
+﻿  venue.c
+C:\Users\Bryan Lai\Documents\College\Sem 3\PCD 2\Assignment\Project\TarucSejahtera\TarucSejahtera\venue.c(421,6): warning C4101: 'i': unreferenced local variable
+C:\Users\Bryan Lai\Documents\College\Sem 3\PCD 2\Assignment\Project\TarucSejahtera\TarucSejahtera\venue.c(666): warning C4715: 'reportOpt': not all control paths return a value
+C:\Users\Bryan Lai\Documents\College\Sem 3\PCD 2\Assignment\Project\TarucSejahtera\TarucSejahtera\venue.c(685): warning C4716: 'menuOpt': must return a value
+  TarucSejahtera.vcxproj -> C:\Users\Bryan Lai\Documents\College\Sem 3\PCD 2\Assignment\Project\TarucSejahtera\Debug\TarucSejahtera.exe
